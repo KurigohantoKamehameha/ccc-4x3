@@ -88,6 +88,3 @@ python3 patch/build.py <decrypted EBOOT> EBOOT_43.BIN --hor-minus # 3D: crop the
 
 `tools/gedump.py` and `tools/classify_dumps.py` read PPSSPP GE frame dumps (`.ppdmp`) to
 inspect draws and replay the classifier.
-
-Reverse-engineering work on the rest of the game lives in a separate repository:
-[ccc-decomp](https://github.com/KurigohantoKamehameha/ccc-decomp).
