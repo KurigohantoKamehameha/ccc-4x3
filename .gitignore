@@ -1,0 +1,14 @@
+# Never commit game data
+bin/
+*.bin
+*.BIN
+*.iso
+*.ISO
+*.prx
+*.elf
+# generated
+asm/
+build/
+__pycache__/
+out/
+*.ppdmp
