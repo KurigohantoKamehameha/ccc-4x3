@@ -16,7 +16,7 @@ Works with the **English fan translation v1.0** and with the original **Japanese
 | Menus, narration, save/load, shop, battle HUD, results | Left exactly as the game draws them (stretched to fill the screen, like the original) |
 
 Set your emulator / output to **4:3 stretch** (in PPSSPP: *Display layout & effects* →
-stretch to fill, on a 4:3 display or window).
+stretch to fill, on a 4:3 display or window and choose a resolution scaling according to your monitor).
 
 ## Install
 
